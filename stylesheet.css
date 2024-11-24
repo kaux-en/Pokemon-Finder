@@ -1,0 +1,70 @@
+p, h1, h3, h4, h5 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+a:hover {
+    color: rgb(179, 125, 229);
+}
+
+body {
+    background-color: rgba(137, 43, 226, 0.149);
+}
+
+.content {
+    text-align: center;
+}
+
+.navbar {
+    background-color: rgb(50, 50, 196); 
+    
+}
+
+.btn {
+    border-color: rgb(167, 100, 230);
+    background-color: rgb(167, 100, 230);
+    color: azure;
+}
+
+.btn:hover {
+    background-color: rgb(142, 47, 231);
+    color: rgb(64, 8, 60);
+}
+
+.footer {
+    font-size: 16px;
+    color: black !important; /*not working */
+}
+
+table, th, td {
+    border-bottom: .5px solid;
+    text-align: center;
+    border-color: rgba(137, 43, 226, 0.622);
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+
+tr:hover {
+    background-color: rgba(137, 43, 226, 0.478);
+}
+
+
+h1 {
+    text-shadow: 2px 4px #5c4f6299;
+}
+
+th {
+    color: rgb(55, 22, 86);
+}
+
+
